@@ -1,0 +1,56 @@
+.center-img {
+    width: 351px;
+    margin: 0 auto;
+}
+
+.center {
+    width: 90%;
+    margin: auto;
+    background: #EEEEEE;
+    margin-bottom: 2px;
+}
+.box-center {
+    text-align: center;
+}
+
+.d-flex {
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+}
+.f-size {
+    font-size: small;
+}
+
+.box-color {
+    background-color: #70CCC2;
+    padding: 5px;
+    text-align: center;
+}
+.mr {
+    margin-right: 2px;
+}
+
+.box-color p {
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+    font-size: small
+}
+
+.bx-small {
+    width: 23%;
+    background-color: #70CCC2;
+}
+.bx-medium {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.bx-large {
+    width:40% ;
+    background-color: #62B3AA;
+    font-size: small
+}
